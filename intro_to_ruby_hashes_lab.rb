@@ -59,7 +59,9 @@ def monopoly_with_fourth_tier
 	      :reading_railroad => {
 	        :morgage_value => "$100"
 	      },
-	      :pennsylvania_railroad => {},
+	      :pennsylvania_railroad => {
+	        :morgage_value => "$200"
+	      },
 	      :b_and_o_railroad => {},
 	      :shortline => {}
 	    },
