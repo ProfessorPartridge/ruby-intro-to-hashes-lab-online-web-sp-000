@@ -1,5 +1,5 @@
 def new_hash
-  return hash = Hash.new
+  return Hash.new
   
 end
 
